@@ -18,8 +18,8 @@ Primary use:	One page
 
 [Color codes]
 
-Buttons, etc:	#726FB9 (blue)
-hover color:	#fed136 (yellow)
+Buttons, etc:	#F03E8A (pink)
+hover color:	#F2E3D9 (cream)
 -------------------------------------------------------------------*/
 
 /*--------------------
@@ -464,7 +464,7 @@ figure.effect-bubba:hover p {
 --------------------*/
 /*Dark Background Color*/
 .dark-bg {
-    background: #F28D9F;
+    background: #F03E8A;
     /*color: #fff;*/
 }
 
@@ -477,7 +477,7 @@ figure.effect-bubba:hover p {
 }
 /*Light Background Color*/
 .light-bg {
-	background-color: #F2D0D0;
+	background-color: #F2E3D9;
 }
 
 .overlay-dark:before, .overlay-light:before {
